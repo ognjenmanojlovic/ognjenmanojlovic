@@ -1,9 +1,3 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Ognjen+Manojlovic;Cyber+Security+Engineer+in+progress;DevSecOps+%7C+Secure+Systems+%7C+Real+Projects" />
-</p>
-
----
-
 # 👋 Hi, I'm Ognjen Manojlovic
 
 🚀 **Cyber Security Engineer (in progress)**  
@@ -31,7 +25,7 @@ I'm building secure, production-ready systems with a strong focus on **security,
 ⚙️ DevSecOps & CI/CD Security
 🐳 Containerization & Secure Deployments
 📊 Log Analysis & Monitoring (SIEM)
-🧪 Offensive Security (OWASP, Exploitation Basics)
+🧪 Offensive Security (OWASP, Exploitation)
 ```
 
 ---
@@ -95,15 +89,6 @@ Log analysis + threat detection visualization
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ognjenmanojlovic&show_icons=true&theme=github_dark&hide_border=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ognjenmanojlovic&theme=github-dark&hide_border=true" height="160"/>
-</p>
-
----
-
 ## 📈 Currently Learning
 
 - Advanced **Web Exploitation**
@@ -123,7 +108,7 @@ focused on **DevSecOps, secure infrastructure and defensive security insights**
 ## 📫 Connect With Me
 
 🌐 https://ognjenmanojlovic.com  
-💼 www.linkedin.com/in/ognjen-manojlovic-299a2b2a0
+💼 https://linkedin.com/in/ognjen-manojlovic-299a2b2a0  
 📧 kontakt@ognjenmanojlovic.com  
 
 ---
