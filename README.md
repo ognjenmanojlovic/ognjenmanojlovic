@@ -19,14 +19,12 @@ I'm building secure, production-ready systems with a strong focus on **security,
 
 ## 🧠 Core Focus
 
-```bash
-🔐 Application Security
-🛡️ Defensive Security & Threat Detection
-⚙️ DevSecOps & CI/CD Security
-🐳 Containerization & Secure Deployments
-📊 Log Analysis & Monitoring (SIEM)
-🧪 Offensive Security (OWASP, Exploitation)
-```
+- 🔐 Application Security
+- 🛡️ Defensive Security & Threat Detection
+- ⚙️ DevSecOps & CI/CD Security
+- 🐳 Containerization & Secure Deployments
+- 📊 Log Analysis & Monitoring (SIEM)
+- 🧪 Offensive Security (OWASP, Exploitation)
 
 ---
 
